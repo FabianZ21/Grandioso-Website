@@ -34,9 +34,18 @@ footer{
 
 #buttonDiv{
   text-align: center;
+  display: flex;
 }
 .navButton{
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: x-large;
   background-color: #ffffff;
+  flex: 1;
+  padding-inline: 12px;
+  margin-top: 1%;
+
+  border-style: hidden;
 }
 
 /* button {
