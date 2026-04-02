@@ -4,6 +4,7 @@ body{
   padding: 0;
 }
 
+
 #header{
   background-color: #FCFF70;
   margin: 0;
@@ -17,17 +18,10 @@ border-width: 3px; */
 }
 
 #logo{
-  margin: 3%;
-  width: 50%;
+  margin-top: 1%;
+  margin-bottom: .5%;
+  width: 15%;
   height: auto;
-}
-
-footer{
-  padding: 1%;
-}
-
-#textToUpdate{
-  margin: 1%;
 }
 
 /* Top Button Customization */
